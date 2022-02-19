@@ -17,4 +17,3 @@ Extract movie data from IMDB API and display them by category.
 
 When you click an movie poster, a trailer on YouTube starts playing.
 [![Image from Gyazo](https://i.gyazo.com/93f8978a110612bc251847f9353daafb.gif)](https://gyazo.com/93f8978a110612bc251847f9353daafb)
-[![Image from Gyazo](https://i.gyazo.com/41ecc7d678ef3f21463e03860d56f0ff.gif)](https://gyazo.com/41ecc7d678ef3f21463e03860d56f0ff)

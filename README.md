@@ -9,7 +9,7 @@ This has following functions.
 - The background of the banner changes depending on the slide.
 - When you click on a movie, if there is one, it will show the promotional Youtube video in an iFrame.
 
-＃ Demo
+# Demo
 The app is deployed using Firebase at https://react-typscript-netflix-clone.web.app/.
 
 Extract movie data from IMDB API and display them by category.

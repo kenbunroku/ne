@@ -13,4 +13,4 @@ This has following functions.
 The app is deployed using Firebase at https://react-typscript-netflix-clone.web.app/.
 
 Extract movie data from IMDB API and display them by category.
-![Image from Gyazo](https://gyazo.com/916d6d53df2e76615dd8a12dec17380d)
+[![Image from Gyazo](https://i.gyazo.com/916d6d53df2e76615dd8a12dec17380d.jpg)](https://gyazo.com/916d6d53df2e76615dd8a12dec17380d)

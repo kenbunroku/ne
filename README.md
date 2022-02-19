@@ -1,7 +1,9 @@
-This is a coding practice of React + Typescript. I coded a clone of Netflix website.\
-This is Japanese [Tutorials](https://zenn.dev/gunners6518/books/4c4672f32dd100) I followed. You can see [an English video](https://youtu.be/XtMThy8QKqU) on YouTube.\
+# Netflix Clone Exercise
 
-This has following functions.\
+This is a coding practice of React + Typescript. I coded a clone of Netflix website.
+This is Japanese [Tutorials](https://zenn.dev/gunners6518/books/4c4672f32dd100) I followed. You can see [an English video](https://youtu.be/XtMThy8QKqU) on YouTube.
+
+This has following functions.
 - Retrieve and display NetflixApi from TMDB
 - Display in columns by genre
 - The background of the banner changes depending on the slide.
@@ -9,3 +11,6 @@ This has following functions.\
 
 ＃ Demo
 The app is deployed using Firebase at https://react-typscript-netflix-clone.web.app/.
+
+Extract movie data from IMDB API and display them by category.
+![Image from Gyazo](https://gyazo.com/916d6d53df2e76615dd8a12dec17380d)

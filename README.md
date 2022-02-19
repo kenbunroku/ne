@@ -14,3 +14,6 @@ The app is deployed using Firebase at https://react-typscript-netflix-clone.web.
 
 Extract movie data from IMDB API and display them by category.
 [![Image from Gyazo](https://i.gyazo.com/916d6d53df2e76615dd8a12dec17380d.jpg)](https://gyazo.com/916d6d53df2e76615dd8a12dec17380d)
+
+When you click an movie poster, a trailer on YouTube starts playing.
+[![Image from Gyazo](https://i.gyazo.com/93f8978a110612bc251847f9353daafb.gif)](https://gyazo.com/93f8978a110612bc251847f9353daafb)
